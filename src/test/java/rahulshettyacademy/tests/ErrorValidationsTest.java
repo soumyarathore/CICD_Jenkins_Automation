@@ -33,7 +33,7 @@ public class ErrorValidationsTest extends BaseTest {
 	{
 
 		String productName = "ZARA COAT 3";
-		ProductCatalogue productCatalogue = landingPage.loginApplication("rahulshetty@gmail.com", "Iamking@000");
+		ProductCatalogue productCatalogue = landingPage.loginApplication("rathore@gmail.com", "Soumya@123");
 		List<WebElement> products = productCatalogue.getProductList();
 		productCatalogue.addProductToCart(productName);
 		CartPage cartPage = productCatalogue.goToCartPage();

@@ -12,4 +12,4 @@ Feature: Error validation
 
      Examples: 
       | name  								|  password		    |
-      | rahulshetty@gmail.com |  Iamking@0      | 
+      | rathore@gmail.com |  Soumya@123   |

@@ -11,7 +11,7 @@
   <test thread-count="5" name="Submit Order Test">
     <classes>
       <class name="rahulshettyacademy.tests.SubmitOrderTest"/>
-    </classes>
+    </classes> 
   </test> <!-- Test -->
   
   <test thread-count="5" name="Error Validations Test">
