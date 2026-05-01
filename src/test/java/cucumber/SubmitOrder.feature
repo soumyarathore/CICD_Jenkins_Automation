@@ -16,5 +16,5 @@ Feature: Purchase the order from Ecommerce Website
 
     Examples: 
       | name  								|  password		    |	productName |
-      | rathore@gmail.com |  Soumya@123   | ZARA COAT 3 |
+      | rathore@gmail.com |  SoumyaRathore@123   | ZARA COAT 3 |
 
